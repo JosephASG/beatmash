@@ -1,0 +1,27 @@
+BEATMASH TERMS AND CONDITIONS OF USE
+
+These terms and conditions ("Terms") set forth the rules and conditions of use of the music player program called Beatmash (the "Program"). By using the Program, you agree to the terms and conditions set forth below. If you do not agree to these Terms, do not use the Program.
+
+License
+The Program is owned by Mashcode Studios La ("Owner") and is protected by applicable copyright laws. The Owner grants you a limited, non-exclusive, non-transferable license to use the Program for your personal, non-commercial use.
+
+restrictions
+You may not copy, modify, distribute, sell or otherwise exploit the Program. You may not decompile or attempt to derive the source code of the Program, except as permitted by law. You may not use the Program to violate the law or infringe the rights of third parties.
+
+Updates and improvements
+The Owner reserves the right to update or improve the Program at any time. These updates or improvements may include bug fixes, new functions or features, or changes to the user interface. You agree that these updates or improvements may affect compatibility with your equipment or operating system, and that you will not be responsible for any problems that arise as a result of such updates or improvements.
+
+Use of the Program
+You assume the responsibility to use the Program responsibly and safely. The Owner shall not be liable for any damage or loss resulting from the use of the Program. You agree to use the Program for lawful purposes only, and not for any illegal or improper purpose.
+
+Privacy
+The Owner may collect certain information from you in connection with your use of the Program. This information will only be used to improve the Program and offer you a better user experience. The Owner is committed to protecting your privacy and will not share your information with third parties without your express consent.
+
+Guarantee
+The Owner makes no warranties in connection with the Program, whether express or implied. To the extent permitted by law, the Owner shall not be liable for any direct, indirect, incidental, special or consequential damages arising out of the use of the Program.
+
+applicable law
+These Terms will be governed and interpreted in accordance with the laws of the Republic of Ecuador. Any dispute or controversy related to these Terms will be resolved exclusively in the courts of the Republic of Ecuador.
+
+Modifications of the terms
+The Owner reserves the right to modify these Terms at any time. The most recent version of the Terms will be posted on the Owner's website. Your continued use of the Program.
